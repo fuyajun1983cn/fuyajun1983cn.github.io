@@ -1,5 +1,5 @@
 
-## 常用网站     
+##常用网站     
 - **[GCC Wiki](http://gcc.gnu.org/wiki/HomePage)**  
 - **[Free Computer Books](http://freecomputerbooks.com/)**   
 - **[Android Development Resource](http://bootloader.wikidot.com/start)**   
@@ -7,8 +7,7 @@
 - **[QML Book](http://qmlbook.github.io/)**   
 - **[PPT模板和素材](http://www.51pptmoban.com/)**   
 
-## Jekyll使用备忘
+##Jekyll使用备忘
 1. 本地启动Jekyll服务器
 >jekyll server --watch
 2. Jekyll说明文档 <http://jekyllrb.com/docs/structure/>
-3. 使用font-spider云压缩中文字体

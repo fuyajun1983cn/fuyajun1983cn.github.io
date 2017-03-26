@@ -2,24 +2,6 @@
  * Globals
  */
 
-/*外部字体*/
-@font-face {
-  font-family: '毛泽东字体'
-  src: url('../fonts/maozedong.eot');
-  src:
-    url('../fonts/maozedong.eot?#font-spider') format('embedded-opentype'),
-    url('../fonts/maozedong.woff2') format('woff2'),
-    url('../fonts/maozedong.woff') format('woff'),
-    url('../fonts/maozedong.ttf') format('truetype'),
-    url('../fonts/maozedong.svg') format('svg');
-  font-weight: normal;
-  font-style: normal;     
-}
-
-.maotizi {
-  font-family: '毛泽东字体'
-}
-
 /* Links */
 a,
 a:focus,
